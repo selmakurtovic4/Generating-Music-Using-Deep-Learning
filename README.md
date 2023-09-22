@@ -1,1 +1,3 @@
-# ZavrsniRad
+In this research, we propose an innovative music generation algorithm based on LSTM networks. This algorithm serves as an independent music composer, eliminating the need for human intervention. Our model leverages deep learning to analyze intricate note features from a dataset, creating entirely new musical compositions. We are trying to emulate The Beatles' distinctive style, thanks to training on their MIDI files. We use the music21 library for systematic MIDI file processing, transforming extracted features into structured JSON data. 
+
+This paper and research were conducted by Selma Kurtović for her Bachelor's thesis under the mentorship of Dr. Senka Krivić and Arman Hasanbegović in collaboration with Klika.
